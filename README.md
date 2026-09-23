@@ -1,6 +1,10 @@
 # Odin Recipes
 Odin Recipes is a basic recipe website. The site consists of a main page with links to a few recipes.
 
+## Live Demo
+Clicking this link allows you to view the live demo of the [Odin Recipes site](https://samuelmartinezh.github.io/odin-recipes/)
+![Screenshot of the Odin Recipes homepage](./images/preview.png)
+
 ## Outcome
 - I learned to build the initial basic structure of a project.
 - I learned to build the initial structure of a webpage.
